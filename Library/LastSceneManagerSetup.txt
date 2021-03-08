@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/EleganTps/Scenes/demo 1 lego city cover scene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

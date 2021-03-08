@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: a4be9bb7b1faa974fbd226a5d4da46d3
+labels:
+- audio
+- sound
+- gunshot
+timeCreated: 1431368307
+licenseType: Store
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 0
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: ff920869346f3fc408bb7e5552d29954
+timeCreated: 1438021940
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Animated1
+    100002: Animated22
+    100004: barrel1
+    100006: barrel2
+    100008: BulletDamage2
+    100010: BulletDamge1
+    100012: clip1
+    100014: clip2
+    100016: clip3
+    100018: Flashlight1
+    100020: grip1
+    100022: grip2
+    100024: pCube11
+    100026: polySurface107
+    100028: //RootNode
+    100030: Shotgun
+    100032: Sight1
+    100034: Sight2
+    100036: Silencer
+    100038: Animated2
+    100040: parts
+    100042: polySurface59
+    400000: Animated1
+    400002: Animated22
+    400004: barrel1
+    400006: barrel2
+    400008: BulletDamage2
+    400010: BulletDamge1
+    400012: clip1
+    400014: clip2
+    400016: clip3
+    400018: Flashlight1
+    400020: grip1
+    400022: grip2
+    400024: pCube11
+    400026: polySurface107
+    400028: //RootNode
+    400030: Shotgun
+    400032: Sight1
+    400034: Sight2
+    400036: Silencer
+    400038: Animated2
+    400040: parts
+    400042: polySurface59
+    2300000: Animated1
+    2300002: Animated22
+    2300004: barrel1
+    2300006: barrel2
+    2300008: BulletDamage2
+    2300010: BulletDamge1
+    2300012: clip1
+    2300014: clip2
+    2300016: clip3
+    2300018: Flashlight1
+    2300020: grip1
+    2300022: grip2
+    2300024: polySurface107
+    2300026: Shotgun
+    2300028: Sight1
+    2300030: Sight2
+    2300032: Silencer
+    2300034: Animated2
+    2300036: polySurface59
+    3300000: Animated1
+    3300002: Animated22
+    3300004: barrel1
+    3300006: barrel2
+    3300008: BulletDamage2
+    3300010: BulletDamge1
+    3300012: clip1
+    3300014: clip2
+    3300016: clip3
+    3300018: Flashlight1
+    3300020: grip1
+    3300022: grip2
+    3300024: polySurface107
+    3300026: Shotgun
+    3300028: Sight1
+    3300030: Sight2
+    3300032: Silencer
+    3300034: Animated2
+    3300036: polySurface59
+    4300000: barrel1
+    4300002: barrel2
+    4300004: grip1
+    4300006: grip2
+    4300008: Silencer
+    4300010: Animated1
+    4300012: Animated22
+    4300014: BulletDamage2
+    4300016: BulletDamge1
+    4300018: Sight2
+    4300020: Sight1
+    4300022: Shotgun
+    4300024: polySurface107
+    4300026: clip1
+    4300028: clip2
+    4300030: clip3
+    4300032: Flashlight1
+    4300034: Animated2
+    4300036: polySurface59
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 6.80000019
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
